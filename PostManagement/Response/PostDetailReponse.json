@@ -1,0 +1,20 @@
+{
+  "status" : 201,
+  "message" : "successfully",
+  "data" : {
+      "id" : 1,
+      "user" : {
+        "id" : 1,
+        "fullName" : "Chanthai"
+      },
+      "topic" : {
+        "id" : 1,
+        "name" : "Skin Health"
+      },
+      "title" : "What should be done when a child has a fever in the summer until he has a seizure?",
+      "thumbnail": "https://example.com/images/organic-food.jpg",
+      "urlImage" : "https://c4.wallpaperflare.com/wallpaper/126/117/95/quote-motivational-digital-art-typography-wallpaper-preview.jpg",
+      "status" : true,
+      "view" : 100
+    }
+}
