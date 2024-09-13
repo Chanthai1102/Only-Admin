@@ -1,0 +1,30 @@
+{
+    "status": 200,
+    "message": "Successfully",
+    "messageKey": "successfully",
+    "endpoint": "api/v1/category",
+    "data": [
+        {
+            "id": 1,
+            "name": "skin_health",
+            "icon": "icon_skin_health",
+            "description": "please input topic releted with skin health ....",
+            "status": "true"
+        },
+        {
+            "id": 2,
+            "name": "eye_health",
+            "icon": "icon_eye_health",
+            "description": "please input topic releted with eye health ....",
+            "status": "false"
+        },
+        {
+            "id": 3,
+            "name": "heart_health",
+            "icon": "icon_heart_health",
+            "description": "please input topic releted with heart health ....",
+            "status": "true"
+        }
+    ],
+    "paging": null
+}
