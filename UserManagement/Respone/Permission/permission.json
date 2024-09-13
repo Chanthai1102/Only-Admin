@@ -1,0 +1,37 @@
+{
+    "status": 200,
+    "message": "Success",
+    "data": [
+        {
+            "id": 1,
+            "name": "list-Post",
+            "module": "Post"
+        },
+        {
+            "id": 2,
+            "name": "create-Post",
+            "module": "Post"
+        },
+        {
+            "id": 3,
+            "name": "edit-Post",
+            "module": "Post"
+        },
+        {
+            "id": 4,
+            "name": "delete-Post",
+            "module": "Post"
+        },
+        {
+            "id": 5,
+            "name": "view-Post",
+            "module": "Post"
+        }
+    ],
+    "paging" : {
+        "page": 1,
+        "size": 20,
+        "totalElements": 5 ,
+        "totalPages": 1
+    }
+}

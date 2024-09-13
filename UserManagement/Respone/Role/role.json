@@ -1,0 +1,31 @@
+{
+    "status": 200,
+    "message": "Success",
+    "data": [
+        {
+            "id": 1,
+            "code": "admin",
+            "name": "Admin",
+            "createdAt": "2024-09-13 14:00:00",
+            "createdBy": "Owner"
+        },
+        {
+            "id": 2,
+            "code": "editer",
+            "name": "Editor",
+            "createdAt": "2024-09-13 14:00:00",
+            "createdBy": "Owner"
+        },
+        {
+            "id": 3,
+            "code": "user",
+            "name": "User",
+            "createdAt": "2024-09-13 14:00:00",
+            "createdBy": "Owner"
+        }
+    ],
+    "paging" : {
+        "totalElements": 5 ,
+        "totalPages": 1
+    }
+}

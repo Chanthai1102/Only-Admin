@@ -1,0 +1,43 @@
+{
+    "status": 200,
+    "message": "Success",
+    "data": {
+        "role": {
+            "id": 1,
+            "code": "admin",
+            "name": "Admin"
+        },
+        "permissions": [
+            {
+                "id": 1,
+                "name": "list-Post",
+                "module": "Post",
+                "isChecked": true
+            },
+            {
+                "id": 2,
+                "name": "create-Post",
+                "module": "Post",
+                "isChecked": true
+            },
+            {
+                "id": 3,
+                "name": "edit-Post",
+                "module": "Post",
+                "isChecked": false
+            },
+            {
+                "id": 4,
+                "name": "delete-Post",
+                "module": "Post",
+                "isChecked": false
+            },
+            {
+                "id": 5,
+                "name": "view-Post",
+                "module": "Post",
+                "isChecked": true
+            }
+        ]
+    }
+}
