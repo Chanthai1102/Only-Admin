@@ -1,0 +1,17 @@
+{
+    "status": 200,
+    "message": "Successfully",
+    "messageKey": "successfully",
+    "endpoint": "api/v1/category/1",
+    "data": [
+        {
+            "name": "skin_health",
+            "icon": "icon_skin_health",
+            "description": "please input topic releted with skin health ....",
+            "status": "true",
+            "createAt": "2024-09-13T14:59:15Z",
+            "updateAt": "2024-09-13T14:59:15Z"
+        }
+    ],
+    "paging": null
+}
