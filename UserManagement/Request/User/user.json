@@ -1,0 +1,12 @@
+{
+    "photo": "https://images.pexels.com/photos/3680219/pexels-photo-3680219.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "firstname" : "Chan",
+    "lastname" : "Dara",
+    "username" : "dara.chan",
+    "password" : 123456,
+    "email" : "darachan@gmail.com",
+    "phone" : "0987654321",
+    "address" : "Ha Noi",
+    "gender" : "Male",
+    "birthday" : "1990-01-01"
+}
