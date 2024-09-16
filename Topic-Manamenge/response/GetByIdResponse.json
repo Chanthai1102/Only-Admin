@@ -1,0 +1,22 @@
+{
+    "status": "200",
+    "message": "Successful",
+    "data": {
+        "id": "1",
+        "name": "Eye Protection",
+        "category_id": [
+            {
+                "id": 1,
+                "name": "Eye Protection"
+            }
+        ],
+        "description": "This topic is used to detail contents related to Eye protection.",
+        "user_id": [
+            {
+                "id": "1",
+                "name": "Seyha"
+            }
+        ],
+        "status": "Active"
+    }
+}
