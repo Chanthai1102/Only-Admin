@@ -1,0 +1,15 @@
+{
+	"id": "d9f814e6-5c00-4984-a668-7460ee8fccb0",
+	"name": "Admin Topic Env",
+	"values": [
+		{
+			"key": "Server Address",
+			"value": "http://localhost:8888",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2024-08-20T13:21:34.624Z",
+	"_postman_exported_using": "Postman/11.8.1"
+}
