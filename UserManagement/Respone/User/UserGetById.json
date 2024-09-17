@@ -46,10 +46,4 @@
             ]
         } 
     },
-    "paging" : {
-        "page": 1,
-        "size": 20,
-        "totalElements": 5,
-        "totalPages": 1
-    }
 }
